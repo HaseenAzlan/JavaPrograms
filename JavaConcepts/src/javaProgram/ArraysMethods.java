@@ -8,7 +8,7 @@ public class ArraysMethods {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-int[] a= {78,50,60,100,10,20,40,5,8};
+int[] a= {78,50,60,100,10,20,40,5,8,12,15};
 //Copy
 int[] copy= Arrays.copyOf(a, a.length);
 System.out.println(Arrays.toString(copy));
